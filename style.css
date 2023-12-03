@@ -1,0 +1,206 @@
+.Violet {
+  font-size: 30px;
+  text-align: center;
+  background-color: #e90d88;
+  width: 150px;
+  height: 200px;
+  padding: 20px 0px;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+}
+
+.Cerulean {
+  font-size: 30px;
+  text-align: center;
+  background-color: #310de9;
+  width: 150px;
+  height: 200px;
+  padding: 20px 0px;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+  margin-top: 5px;
+
+}
+
+.Seagreen {
+  font-size: 30px;
+  text-align: center;
+  background-color: #0de9a8;
+  width: 150px;
+  height: 200px;
+  padding: 20px 0px;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+
+}
+
+.beige {
+  font-size: 30px;
+  text-align: center;
+  background-color: #f2c07d;
+  width: 150px;
+  height: 200px;
+  padding: 20px 0px;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+}
+
+
+div.Colors {
+
+  border: 2px solid black;
+  padding: 20px 20px;
+
+
+}
+
+.Hedvig1 {
+
+  font-family:'Hedvig Letters Serif', serif;
+  font-size: 30px;
+  
+}
+
+.Hedvig2 {
+
+  font-family:'Hedvig Letters Serif', serif;
+  font-size: 30px;
+  font-style: italic;
+  
+}
+
+.Playfair1 {
+
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+
+}
+
+.Playfair2 {
+
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+  font-style: italic;
+
+}
+
+.Garamond1 {
+
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+
+}
+
+.Garamond2 {
+
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+  font-style: italic;
+}
+
+div.Hedvig {
+
+  column-count: 1;
+  column-gap: 30px;
+
+}
+
+div.Playfair {
+  column-count: 1;
+  column-gap: 30px;
+}
+
+div.Garamond {
+  column-count: 1;
+  column-gap: 30px;
+
+}
+
+div.Writing {
+
+  border: 2px solid black;
+  padding: 20px 20px;
+
+
+}
+
+.Heading {
+
+  font-family:'Hedvig Letters Serif', serif;
+  font-size: 30px;
+
+}
+
+li {
+
+  font-family: "Playfair Display", serif;
+  font-size: 20px;
+
+
+}
+
+h2 {
+
+  font-family: "Playfair Display", serif;
+  font-size: 30px;
+
+}
+
+h3 {
+
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+
+
+
+}
+
+div.Style {
+
+  border: 2px solid black;
+  padding: 20px 20px;
+
+
+
+
+
+}
+
+
+  background-color: #0de9a8;
+  width: 150px;
+  height: 200px;
+  padding: 20px 0px;
+  font-weight: bold;
+  color: white;
+  margin: 250px 0px;
+
+}
+
+.beige {
+  font-size: 30px;
+  text-align: center;
+  background-color: #f2c07d;
+  width: 150px;
+  height: 200px;
+  padding: 20px 0px;
+  font-weight: bold;
+  color: white;
+  float: right;
+
+}
+
+
+div.Colors {
+
+  border: 2px solid black;
+  padding: 20px 20px;
+
+
+
+
+}
